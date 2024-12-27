@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.continer{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ss{
+    background-image: url(/image\ 4\ \(2\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1440px;
+height: 533px;
+
+
+    
+}
+
+h1{
+    width: 500px;
+height: 82.29px;
+top: 235.8px;
+left: 170px;
+gap: 0px;
+opacity: 0px;
+color: white;
+
+}
+
+button{
+    width: Hug (189px)px;
+    height: Hug (47px)px;
+    top: 367px;
+    left: 170px;
+    padding: 12px 24px 12px 24px;
+    gap: 0px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+    background-color: red;
+    color: white;
+    
+}
+.pp{
+    margin-left: 100px;
+}
+
+h2{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 40px;
+}
+.java{
+    margin-top: 200px;
+    display: flex;
+    align-items: center;
+
+}
+h3{
+    margin-bottom: 100px;
+    margin-left: 100px;
+    
+}
+p{
+    width: 600px;
+height: 96px;
+gap: 0px;
+opacity: 0px;
+margin-top: 50px;
+
+
+}
+ 
+   
+    
